@@ -39,7 +39,7 @@ export default {
   &::before {
     top: 50%;
     width: 15px;
-    height: 0.1px;
+    height: 1px;
   }
 
   &::after {

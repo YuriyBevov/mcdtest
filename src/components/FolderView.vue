@@ -113,7 +113,7 @@ export default {
     .folder::after {
       position: absolute;
       top: 50%;
-      left: -17px;
+      left: -18px;
       width: 17px;
       height: 1px;
       content: '';
