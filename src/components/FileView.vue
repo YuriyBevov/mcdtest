@@ -37,13 +37,13 @@ export default {
   }
 
   &::before {
-    top: 50%;
+    top: 15px;
     width: 15px;
     height: 1px;
   }
 
   &::after {
-    top: calc(50% - 19px);
+    top: calc(50% - 18px);
     width: 1px;
     height: calc(100% + 10px);
   }
