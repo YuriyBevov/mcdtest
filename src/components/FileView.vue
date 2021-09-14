@@ -44,9 +44,9 @@ export default {
   }
 
   &::after {
-    top: -3px;
+    top: -4px;
     width: 1px;
-    height: calc(100% + 10px);
+    height: calc(100% + 12px);
   }
 }
 </style>
