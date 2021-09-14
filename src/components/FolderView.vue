@@ -64,6 +64,9 @@ export default {
     padding-left: 30px;
     margin: 0;
     margin-bottom: 5px;
+
+    font-size: 16px;
+    line-height: 20px;
     
     background-color: skyblue;
     color: black;
