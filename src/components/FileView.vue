@@ -17,7 +17,8 @@ export default {
   position: relative;
   margin: 0;
   padding: 5px;
-  
+  font-size: 16px;
+  line-height: 20px;
   color: black;
   cursor: pointer;
   transition: color 0.3s ease;
@@ -37,7 +38,7 @@ export default {
   }
 
   &::before {
-    top: 15px;
+    top: 17px;
     width: 15px;
     height: 1px;
   }
